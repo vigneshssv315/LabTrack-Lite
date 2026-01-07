@@ -1,0 +1,6 @@
+@LabTrackLite_HostAddress = http://localhost:5048
+
+GET {{LabTrackLite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
